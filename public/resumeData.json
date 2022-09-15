@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name": "Ejalonibu Idris",
+    "occupation": "Web/App Developer",
+    "description": "I eat, sleep and breathe React/React Native",
+    "image": "niasky.jpeg",
+    "bio": "Hi there! I'm Idris. I've been coding for over 4+ years now. I taught myself how to code and also learn using online resources like sonny sangha and Traversy media on youtube and also worked in company as a Front End Developer ",
+    "contactmessage": "Get in touch with me if you've got deals for me",
+    "email": "ejalonibu8882@gmail.com",
+    "phone": "+234 8126036801",
+    "address": {
+      "street": "14 Olumo Str",
+      "city": "Iyana Ipaja",
+      "state": "lagos",
+      "zip": "100012"
+    },
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/badbwoy-niasky-a421b6203/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/badbwoy_niasky/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/badbwoy2020",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Lagos State University - Nigeria",
+        "degree": "Bachelor's Degree, Political Science",
+        "graduated": "Oct 2021"
+      }
+    ],
+    "work": [
+      {
+        "company": "Davtonlearn",
+        "years": "May 2020-2022",
+        "description": "Front End Developer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "REACT JS",
+        "level": "100%"
+      },
+      {
+        "name": "REACT NATIVE",
+        "level": "85%"
+      },
+      {
+        "name": "GIT",
+        "level": "50%"
+      },
+      {
+        "name": "FIGMA",
+        "level": "80%"
+      },
+      {
+        "name": "JAVASCRIPT",
+        "level": "60%"
+      },
+      {
+        "name": "BOOTSTRAP/REACT BOOTSTRAP",
+        "level": "60%"
+      },
+      {
+        "name": "REDUX",
+        "level": "90%"
+      },
+      {
+        "name": "TYPESCRIPT",
+        "level": "60%"
+      },
+      {
+        "name": "UNIT TESTING / CYPRESS",
+        "level": "60%"
+      },
+      {
+        "name": "WEB DEVELOPMENT",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.png",
+        "url": "https://snapchat-clone-f8da9.firebaseapp.com/"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.png",
+        "url": "https://clone-257e1.firebaseapp.com/"
+      },
+      {
+        "title": "Slack Clone (React JS)",
+        "category": "",
+        "image": "slack.png",
+        "url": "https://slack-clone-81908.firebaseapp.com/"
+      },
+      {
+        "title": "Airbnb Clone (React JS)",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://airbnb-build.vercel.app/"
+      },
+      {
+        "title": "Figma Design (React JS)",
+        "category": "",
+        "image": "tradingapp.png",
+        "url": "https://shiny-biscochitos-93e893.netlify.app/"
+      },
+      {
+        "title": "Figma Design (React JS)",
+        "category": "",
+        "image": "gpt3.png",
+        "url": "https://deft-concha-ec360a.netlify.app/"
+      },
+      {
+        "title": "Slack Clone (React Native JS)",
+        "category": "",
+        "image": "slack-native.png",
+        "url": "https://slack-native-7cf8c.firebaseapp.com/"
+      },
+      {
+        "title": "Uber Clone (React Native JS)",
+        "category": "",
+        "image": "uber.png"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Your determination spirit is so strong that anything you said you're going to do you do it, your endurance game is very strong keep it up that's your thing",
+        "user": "Femi Ogunbiyi"
+      }
+    ]
+  }
+}
