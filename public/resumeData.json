@@ -43,7 +43,7 @@
     ],
     "work": [
       {
-        "company": "Davtonlearn",
+        "company": "Davtonlearn, Aplhawoman",
         "years": "May 2020-2022",
         "description": "Front End Developer"
       }
@@ -106,10 +106,16 @@
         "url": "https://clone-257e1.firebaseapp.com/"
       },
       {
-        "title": "Slack Clone (React JS)",
+        "title": "Figme Design (React JS )",
         "category": "",
-        "image": "slack.png",
-        "url": "https://slack-clone-81908.firebaseapp.com/"
+        "image": "easymoney.png",
+        "url": "https://bespoke-buttercream-6c38e3.netlify.app"
+      },
+      {
+        "title": "Figme Design (React JS )",
+        "category": "",
+        "image": "chartapp.png",
+        "url": "https://frolicking-monstera-72943e.netlify.app"
       },
       {
         "title": "Airbnb Clone (React JS)",
